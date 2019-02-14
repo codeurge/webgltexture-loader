@@ -2916,9 +2916,10 @@ lcid@^1.0.0:
   dependencies:
     invert-kv "^1.0.0"
 
-lerna@^2.9.0:
+lerna@^2.11.0:
   version "2.11.0"
   resolved "https://registry.yarnpkg.com/lerna/-/lerna-2.11.0.tgz#89b5681e286d388dda5bbbdbbf6b84c8094eff65"
+  integrity sha512-kgM6zwe2P2tR30MYvgiLLW+9buFCm6E7o8HnRlhTgm70WVBvXVhydqv+q/MF2HrVZkCawfVtCfetyQmtd4oHhQ==
   dependencies:
     async "^1.5.0"
     chalk "^2.1.0"
@@ -4612,6 +4613,10 @@ wcwidth@^1.0.0:
   resolved "https://registry.yarnpkg.com/wcwidth/-/wcwidth-1.0.1.tgz#f0b0dcf915bc5ff1528afadb2c0e17b532da2fe8"
   dependencies:
     defaults "^1.0.3"
+
+"webgltexture-loader@https://github.com/gre/webgltexture-loader#6854f44fe889a2bcaf9e5cc3b4116d596dd57d08":
+  version "0.0.0"
+  resolved "https://github.com/gre/webgltexture-loader#6854f44fe889a2bcaf9e5cc3b4116d596dd57d08"
 
 webidl-conversions@^3.0.0:
   version "3.0.1"
